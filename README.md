@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishsoni-lorka&label=Profile%20views&color=0e75b6&style=flat" alt="girishsoni-lorka" /> </p>
 
-<p align="left"> <a href="https://twitter.com/girishsoni4141" target="blank"><img src="https://img.shields.io/twitter/follow/girishsoni4141?logo=twitter&style=for-the-badge" alt="girishsoni4141" /></a> </p>
+<p align="left"> <a href="https://twitter.com/girishsoni4141" target="blank"><img src="https://img.shields.io/twitter/follow/girishsoni4141?logo=twitter&style=for-the-badge" alt="girishsoni4141" width="25" /></a> </p>
 
 <p align="left"> <a href="https://instagram.com/girish_soni_official_" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="girish_soni_official_" /></a> </p>
 
