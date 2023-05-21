@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/girishsoni4141" target="blank"><img src="https://img.shields.io/twitter/follow/girishsoni4141?logo=twitter&style=for-the-badge" alt="girishsoni4141" /></a> </p>
 
+<p align="left"> <a href="https://instagram.com/girish_soni_official_" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="girish_soni_official_" /></a> </p>
+
 - 🔭 I’m currently working on [Lachoo Memorial College Site](https://www.lachoomemorial.org/)
 
 - 🌱 I’m currently learning **React, Django, Vue.js, Laravel**
